@@ -21,11 +21,11 @@ int main()
     {
         for(int j = 1; j < i; j++)
         {
-            cout << "  ";
+            cout << " ";
         }
         for(int k = i; k <= n; k++)
         {
-            cout << "*   ";
+            cout << "* ";
         }
         cout << endl;
     }
