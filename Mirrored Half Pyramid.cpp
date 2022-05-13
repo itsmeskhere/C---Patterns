@@ -1,0 +1,10 @@
+/*
+Mirrored Half Pyramid
+
+        *
+      * *
+    * * *
+  * * * *
+* * * * *
+
+*/
