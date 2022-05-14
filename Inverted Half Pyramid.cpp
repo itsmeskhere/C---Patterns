@@ -1,0 +1,10 @@
+/*
+Inverted Half Pyramid
+
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+
+*/
