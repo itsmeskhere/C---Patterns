@@ -1,5 +1,6 @@
 /*
 Half Pyramid
+
 *
 * *
 * * *
