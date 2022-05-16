@@ -1,0 +1,10 @@
+/*
+Mirrored Inverted Half Pyramid
+
+* * * * *
+  * * * *
+    * * *
+      * *
+        *
+
+*/
